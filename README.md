@@ -2,4 +2,5 @@
 <br>
 <h2> ROS Computational graph </h2>
 <img src="https://raw.githubusercontent.com/home/ros/Pictures/demo/Screenshot from 2021-04-26 18-13-10 - 1.png?raw=true" />
-/home/ros/Pictures
+
+![Alt text](https://raw.githubusercontent.com/home/ros/Pictures/demo/Screenshot from 2021-04-26 18-13-10 - 1.png "Optional title")
